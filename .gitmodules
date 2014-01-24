@@ -13,3 +13,6 @@
 [submodule ".vim/bundle/IndentAnything"]
 	path = .vim/bundle/IndentAnything
 	url = git@github.com:vim-scripts/IndentAnything.git
+[submodule ".vim/bundle/ack.vim"]
+	path = .vim/bundle/ack.vim
+	url = git@github.com:mileszs/ack.vim.git

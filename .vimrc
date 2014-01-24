@@ -23,3 +23,5 @@ map <Left> <Nop>
 map <Right> <Nop>
 map <Up> <Nop>
 map <Down> <Nop>
+
+let g:ackprg="ag --nogroup --nocolor --column"
