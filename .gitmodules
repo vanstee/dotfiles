@@ -10,3 +10,6 @@
 [submodule ".vim/bundle/vim-bundler"]
 	path = .vim/bundle/vim-bundler
 	url = git://github.com/tpope/vim-bundler.git
+[submodule ".vim/bundle/IndentAnything"]
+	path = .vim/bundle/IndentAnything
+	url = git@github.com:vim-scripts/IndentAnything.git
