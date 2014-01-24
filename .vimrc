@@ -13,7 +13,9 @@ set number
 set showmatch
 set tabstop=2 shiftwidth=2
 
+let &t_Co=256
 syntax on
+colorscheme github
 
 map <Left> <Nop>
 map <Right> <Nop>
