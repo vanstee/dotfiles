@@ -22,3 +22,6 @@
 [submodule ".vim/bundle/vim-golang"]
 	path = .vim/bundle/vim-golang
 	url = https://github.com/jnwhiteh/vim-golang
+[submodule ".vim/bundle/mustache.vim"]
+	path = .vim/bundle/mustache.vim
+	url = git@github.com:juvenn/mustache.vim.git
