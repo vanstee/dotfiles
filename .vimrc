@@ -25,3 +25,5 @@ map <Up> <Nop>
 map <Down> <Nop>
 
 let g:ackprg="ag --nogroup --nocolor --column"
+
+set wildignore+=*/tmp/*,*/node_modules/*,*/bower_components/*,*.so,*.swp,*.zip

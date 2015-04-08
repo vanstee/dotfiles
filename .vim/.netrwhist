@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/vanstee/Code/vanstee/altogether/server/app/controllers'
+let g:netrw_dirhist_2='/Users/vanstee/Code/vanstee/little/client/app/styles/utilities'
+let g:netrw_dirhist_3='/Users/vanstee/Code/vanstee/altogether'
+let g:netrw_dirhist_4='/Users/vanstee/Code/vanstee/altogether/client'
+let g:netrw_dirhist_5='/Users/vanstee/Code/vanstee/altogether/client/app'
+let g:netrw_dirhist_6='/Users/vanstee/Code/vanstee/altogether/client/app/styles'
+let g:netrw_dirhist_7='/Users/vanstee/Code/vanstee/altogether/client/app/styles/utilities'
+let g:netrw_dirhist_8='/Users/vanstee/Code/vanstee/altogether/client/app/styles'
+let g:netrw_dirhist_9='/Users/vanstee/Code/vanstee/little/client'
